@@ -1,6 +1,6 @@
 Feature: Homepage Testing
 
-  @SmokeTest @prod
+  @SmokeTest @prodTest
   Scenario: Homepage validation
     Given User initialize the browser
     When user in HomePage Page
