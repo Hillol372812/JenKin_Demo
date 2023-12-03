@@ -29,7 +29,7 @@ Feature: Verify SignIn Page
     
     
     
-    @prod
+    @prodTest
     Scenario: Verify SignIn Page data
     Given Launch the Browser in prod
     And Verify SignIn link
