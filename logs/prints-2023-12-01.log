@@ -1,0 +1,7 @@
+19:14:19.134 [main] INFO  resources.base - successfully click on mobile link in ShopByBrandNokiaLink method 
+19:14:39.386 [main] INFO  resources.base - browser close successfully
+19:29:53.554 [main] INFO  resources.base - URL launch successfully 
+19:29:57.313 [main] INFO  resources.base - URL launch successfully 
+19:31:11.564 [main] INFO  resources.base - navigate to home url
+19:31:11.564 [main] INFO  resources.base - navigate to Login Page
+19:31:42.955 [main] INFO  resources.base - successfully click on mobile link in ShopByBrandNokiaLink method 
